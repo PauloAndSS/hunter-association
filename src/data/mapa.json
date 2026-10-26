@@ -1,0 +1,98 @@
+[
+  {
+    "id": "republica-de-padokes",
+    "name": "República de Padokes",
+    "kind": "País",
+    "x": 30,
+    "y": 8,
+    "description": "Território republicano do extremo norte, fronteiriço com a Rep. de Mimbo. Região pouco documentada nos arquivos públicos da Associação."
+  },
+  {
+    "id": "republica-de-mimbo",
+    "name": "República de Mimbo",
+    "kind": "País",
+    "x": 39,
+    "y": 9,
+    "description": "Nação republicana vizinha a Padokes, no extremo norte do mapa-múndi. Rotas comerciais limitadas e baixo tráfego de Hunters."
+  },
+  {
+    "id": "reino-de-eukanyu",
+    "name": "Reino de Eukan'yu",
+    "kind": "País",
+    "x": 12,
+    "y": 31,
+    "description": "Reino isolado a oeste do continente setentrional. Mantém relações diplomáticas discretas com a Associação Hunter."
+  },
+  {
+    "id": "japao",
+    "name": "Japão",
+    "kind": "Ilha",
+    "x": 27,
+    "y": 28,
+    "description": "Pequeno arquipélago insular situado entre os territórios do norte. Ponto de referência cultural reconhecido no mapa-múndi."
+  },
+  {
+    "id": "estados-unidos-de-sahelta",
+    "name": "Estados Unidos de Sahelta",
+    "kind": "País — Continente Yorbiano",
+    "x": 17,
+    "y": 55,
+    "description": "Maior nação do Continente Yorbiano, de território extenso e fronteiras marítimas amplas. Importante polo econômico do hemisfério ocidental."
+  },
+  {
+    "id": "uniao-altene",
+    "name": "União Altene",
+    "kind": "País — Continente Yorbiano",
+    "x": 28,
+    "y": 83,
+    "description": "Território insular ao sul de Sahelta, pertencente ao Continente Yorbiano. Rotas marítimas vigiadas por postos avançados da Associação."
+  },
+  {
+    "id": "grande-lago-moebius",
+    "name": "Grande Lago Moebius",
+    "kind": "Acidente Geográfico",
+    "x": 47,
+    "y": 30,
+    "description": "Vasto corpo de água doce que separa os continentes setentrional e oriental. Marco de navegação central do mapa-múndi."
+  },
+  {
+    "id": "continente-aziano",
+    "name": "Continente Aziano",
+    "kind": "Continente",
+    "x": 68,
+    "y": 8,
+    "description": "Massa continental a leste do Grande Lago Moebius, abrangendo o Reino de Kakin e a Federação Ochima."
+  },
+  {
+    "id": "reino-de-kakin",
+    "name": "Reino de Kakin",
+    "kind": "País — Continente Aziano",
+    "x": 74,
+    "y": 33,
+    "description": "Vasto reino governado por uma família real numerosa, palco de disputas de sucessão ao trono. Sociedade hierárquica e militarizada, marcada por intrigas políticas entre os príncipes herdeiros."
+  },
+  {
+    "id": "federacao-ochima",
+    "name": "Federação Ochima",
+    "kind": "País — Continente Aziano",
+    "x": 72,
+    "y": 53,
+    "description": "Federação territorial ao sul do Reino de Kakin, no Continente Aziano. Estrutura política descentralizada, dividida em províncias autônomas."
+  },
+  {
+    "id": "ilha-da-garancia",
+    "name": "Ilha da Garância",
+    "kind": "Ilha",
+    "x": 52,
+    "y": 59,
+    "description": "Pequena ilha isolada nas águas centrais do mapa-múndi, entre os dois grandes continentes. Pouco explorada e raramente visitada por Hunters."
+  },
+  {
+    "id": "uniao-segerusse",
+    "name": "União Segerussé",
+    "kind": "País",
+    "x": 62,
+    "y": 69,
+    "description": "Nação insular ao sul da Federação Ochima. Mantém-se politicamente neutra em disputas entre os grandes continentes."
+  }
+]

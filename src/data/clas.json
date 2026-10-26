@@ -1,0 +1,26 @@
+[
+  {
+    "id": "familia-kelsen",
+    "name": "Família Kelsen",
+    "epithet": "Caçadores da Lei",
+    "description": "Linhagem histórica que caça aqueles que se creem acima da lei. Atuam junto à Associação Hunter rastreando criminosos, usuários ilícitos de Nen e Hunters que corrompem seus privilégios."
+  },
+  {
+    "id": "familia-hellsing",
+    "name": "Família Hellsing",
+    "epithet": "Assassinos Góticos",
+    "description": "Nobreza do submundo com estilo de Transilvânia e traços de terror gótico. Operam de forma estritamente individual, desfrutando de enorme prestígio e temor no crime organizado."
+  },
+  {
+    "id": "familia-zoldyck",
+    "name": "Família Zoldyck",
+    "epithet": "Dinastia de Assassinos",
+    "description": "A infame dinastia de assassinos profissionais de Kukuroo Mountain. Contratos de altíssimo valor e restrições de território públicas."
+  },
+  {
+    "id": "cla-kurta",
+    "name": "Clã Kurta",
+    "epithet": "Olhos Escarlates",
+    "description": "Registros trágicos de um clã raro, conhecido pelos seus lendários Olhos Escarlates. Informações sobre remanescentes mantidas sob sigilo."
+  }
+]

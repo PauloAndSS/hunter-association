@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dez-dons",
+    "name": "Famílias Xi-Yu, Heil-Ly, Cha-R, Buor",
+    "tag": "Mafiosos (Dez Dons)",
+    "description": "Controlam rotas de contrabando, cassinos e proteção em grandes metrópoles.",
+    "threatLevel": "Elevado"
+  },
+  {
+    "id": "familia-nostrade",
+    "name": "Família Nostrade",
+    "tag": "Máfia em Ascensão",
+    "description": "Especializada na coleta de itens raros e predições de alto valor.",
+    "threatLevel": "Moderado"
+  },
+  {
+    "id": "zodiacos",
+    "name": "Os Zodíacos",
+    "tag": "Alta Cúpula Hunter",
+    "description": "Os 12 membros da elite executiva que aconselham a presidência da Associação.",
+    "threatLevel": "N/A — Autoridade"
+  },
+  {
+    "id": "bestas-das-sombras",
+    "name": "Bestas das Sombras",
+    "tag": "Executores Máfia",
+    "description": "Unidade de combate e guarda-costas de elite a serviço dos Dez Dons.",
+    "threatLevel": "Elevado"
+  },
+  {
+    "id": "genei-ryodan",
+    "name": "Trupe Fantasma (Genei Ryodan)",
+    "tag": "Classe S (Criminoso)",
+    "description": "Grupo infame de 13 aranhas. Alerta máximo de perigo em todo o sistema.",
+    "threatLevel": "ALERTA MÁXIMO"
+  }
+]

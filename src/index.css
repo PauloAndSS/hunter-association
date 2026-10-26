@@ -1,0 +1,76 @@
+/* Zera margens, paddings e bordas */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #04080a;
+  --panel: #0a1216;
+  --panel-alt: #0e1a1f;
+  --line: #1c3138;
+  --line-soft: #142227;
+  --ink: #d9f5e8;
+  --ink-dim: #7fa89a;
+  --ink-faint: #4c6a63;
+  --accent: #35e0a1;
+  --accent-strong: #6dffc4;
+  --accent-2: #39b7ff;
+  --danger: #ff4f5e;
+  --danger-dim: #5c2027;
+  --font-mono: "Share Tech Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --font-display: "Orbitron", var(--font-mono);
+}
+
+html, body {
+  background: var(--bg);
+}
+
+body {
+  font-family: var(--font-mono);
+}
+
+/* Remove estilos de lista */
+ol, ul {
+  list-style: none;
+}
+
+/* Remove sublinhado de links e herda cor */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Facilita o uso de imagens */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button, input {
+  font-family: inherit;
+}
+
+::selection {
+  background: var(--accent);
+  color: #04120d;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--panel);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}

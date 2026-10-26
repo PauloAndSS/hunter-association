@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hydon-zoldyck",
+    "name": "Hydon Zoldyck",
+    "licenseNumber": 131,
+    "clan": "Família Zoldyck",
+    "status": "ATIVO",
+    "notes": "Registro de contrato, histórico de missões e restrições de território sob sigilo administrativo da Associação."
+  },
+  {
+    "id": "kuroyami-hoshigaki",
+    "name": "Kuroyami Hoshigaki",
+    "licenseNumber": 191,
+    "clan": "Vínculo familiar não catalogado",
+    "status": "ATIVO",
+    "notes": "Ficha de missões disponível mediante autorização de nível superior."
+  },
+  {
+    "id": "akashi",
+    "name": "Akashi",
+    "licenseNumber": 250,
+    "clan": "Vínculo familiar não catalogado",
+    "status": "ATIVO",
+    "notes": "Hunter licenciado(a) registrado(a) na Associação. Ficha de missões disponível mediante autorização de nível superior."
+  },
+  {
+    "id": "boris",
+    "name": "Boris",
+    "licenseNumber": 19,
+    "clan": "Vínculo familiar não catalogado",
+    "status": "ATIVO",
+    "notes": "Hunter licenciado(a) registrado(a) na Associação. Ficha de missões disponível mediante autorização de nível superior."
+  },
+  {
+    "id": "kaminari-kirigaku",
+    "name": "Kaminari Kirigaku",
+    "licenseNumber": 23,
+    "clan": "Vínculo familiar não catalogado",
+    "status": "ATIVO",
+    "notes": "Registro de contrato e histórico de missões sob sigilo administrativo da Associação."
+  }
+]

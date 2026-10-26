@@ -1,0 +1,66 @@
+[
+  {
+    "id": "erick-barrow",
+    "name": "Erick Barrow",
+    "role": "Caçador de Recompensas / Mercenário",
+    "alias": "\"Tiro Certo\" ou \"Bandido do Faro Oeste\"",
+    "description": "Pistoleiro de reputação consolidada no submundo, com uma longa lista de rivalidades acumuladas ao longo dos anos. Atua por conta própria, aceitando contratos de captura e eliminação de alvos de alto risco.",
+    "image": "/images/npcs/erick-barrow.png"
+  },
+  {
+    "id": "silly-hellsing",
+    "name": "Silly Hellsing",
+    "role": "Hunter — Novata Aprovada",
+    "alias": "",
+    "description": "Aprovada na edição mais recente do Exame Hunter. Vínculo: Família Hellsing, nobreza do submundo com estilo de Transilvânia e traços de terror gótico.",
+    "image": "/images/npcs/silly.png"
+  },
+  {
+    "id": "camila-kurta",
+    "name": "Camila Kurta",
+    "role": "Hunter — Novata Aprovada",
+    "alias": "",
+    "description": "Aprovada na edição mais recente do Exame Hunter. Vínculo: Clã Kurta, linhagem rara marcada por registros trágicos e pelos lendários Olhos Escarlates.",
+    "image": "/images/npcs/camila.png"
+  },
+  {
+    "id": "apollo-sengoku",
+    "name": "Apollo Sengoku",
+    "role": "Hunter — Novato Aprovado",
+    "alias": "",
+    "description": "Aprovado na edição mais recente do Exame Hunter. Sem vínculo familiar catalogado no sistema da Associação.",
+    "image": "/images/npcs/apollo.png"
+  },
+  {
+    "id": "alfonso-santos",
+    "name": "Alfonso Santos",
+    "role": "Hunter — Novato Aprovado",
+    "alias": "",
+    "description": "Aprovado na edição mais recente do Exame Hunter. Sem vínculo familiar catalogado no sistema da Associação.",
+    "image": "/images/npcs/alfonso.png"
+  },
+  {
+    "id": "lukya-zoldyck",
+    "name": "Lukya Zoldyck",
+    "role": "Hunter — Novato Aprovado",
+    "alias": "",
+    "description": "Aprovado na edição mais recente do Exame Hunter. Vínculo: Família Zoldyck, a infame dinastia de assassinos profissionais de Kukuroo Mountain.",
+    "image": "/images/npcs/lukya.png"
+  },
+  {
+    "id": "javier-hellsing",
+    "name": "Javier Hellsing",
+    "role": "Hunter — Novato Aprovado",
+    "alias": "",
+    "description": "Aprovado na edição mais recente do Exame Hunter. Vínculo: Família Hellsing, nobreza do submundo com estilo de Transilvânia e traços de terror gótico.",
+    "image": "/images/npcs/javier.png"
+  },
+  {
+    "id": "milena-silva",
+    "name": "Milena Silva",
+    "role": "Hunter — Novata Aprovada",
+    "alias": "",
+    "description": "Aprovada na edição mais recente do Exame Hunter. Sem vínculo familiar catalogado no sistema da Associação.",
+    "image": "/images/npcs/milena.png"
+  }
+]

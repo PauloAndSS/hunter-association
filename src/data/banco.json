@@ -1,0 +1,27 @@
+[
+  {
+    "id": "catalogo-geral",
+    "name": "Catálogo Geral — Resumo do Banco de Dados",
+    "rarity": "Visão Geral",
+    "description": "Registro consolidado de tesouros e artefatos catalogados pela Associação Hunter em todas as expedições ativas.",
+    "stats": [
+      "150 relíquias catalogadas no sistema.",
+      "Categorias de raridade: F, E, D, C, B, A e S.",
+      "Use a pesquisa ao lado para filtrar por nome ou classe de raridade."
+    ]
+  },
+  {
+    "id": "greed-island",
+    "name": "Console & Cartuchos Greed Island",
+    "rarity": "Classe S",
+    "description": "Jogo lendário operado por aura. Requer console JoyStation exclusivo e cartuchos originais.",
+    "stats": ["Mínimo de 150 cartas de tesouro e itens mágicos registrados na enciclopédia do jogo."]
+  },
+  {
+    "id": "mascara-de-pedra",
+    "name": "Máscara de Pedra & Relíquias",
+    "rarity": "Classe A",
+    "description": "Artefato arqueológico misterioso de civilizações extintas.",
+    "stats": ["Catalogado sob a divisão de 150+ Artefatos Históricos Proibidos e Relíquias do Mundo Conhecido."]
+  }
+]

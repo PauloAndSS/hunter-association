@@ -1,0 +1,902 @@
+[
+  {
+    "id": "reliquia-cristal-simples-de-kakin",
+    "name": "Cristal Simples de Kakin",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda de Kakin. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-anel-gasto-de-mimbo",
+    "name": "Anel Gasto de Mimbo",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda de Mimbo. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-amuleto-surrado-da-genei-ryodan",
+    "name": "Amuleto Surrado da Genei Ryodan",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda da Genei Ryodan. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-pergaminho-comum-da-ilha-da-garancia",
+    "name": "Pergaminho Comum da Ilha da Garância",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda da Ilha da Garância. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-colar-modesto-do-cla-kurta",
+    "name": "Colar Modesto do Clã Kurta",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda do Clã Kurta. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-bastao-enferrujado-de-segerusse",
+    "name": "Bastão Enferrujado de Segerussé",
+    "rarity": "F",
+    "description": "Relíquia enferrujada de baixo grau de raridade, vinda de Segerussé. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-elmo-rustico-de-uma-expedicao-arqueologica",
+    "name": "Elmo Rústico de uma expedição arqueológica",
+    "rarity": "F",
+    "description": "Relíquia rústica de baixo grau de raridade, vinda de uma expedição arqueológica. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-escudo-simples-de-yorknew",
+    "name": "Escudo Simples de Yorknew",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda de Yorknew. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-espelho-gasto-de-eukan-yu",
+    "name": "Espelho Gasto de Eukan'yu",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda de Eukan'yu. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-vaso-surrado-de-um-hunter-desconhecido",
+    "name": "Vaso Surrado de um Hunter desconhecido",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda de um Hunter desconhecido. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-fragmento-comum-de-uma-ruina-submersa",
+    "name": "Fragmento Comum de uma ruína submersa",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda de uma ruína submersa. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-relogio-modesto-da-ilha-baleia",
+    "name": "Relógio Modesto da Ilha Baleia",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda da Ilha Baleia. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-candelabro-enferrujado-do-lago-moebius",
+    "name": "Candelabro Enferrujado do Lago Moebius",
+    "rarity": "F",
+    "description": "Relíquia enferrujada de baixo grau de raridade, vinda do Lago Moebius. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-broche-rustico-de-um-leilao-clandestino",
+    "name": "Broche Rústico de um leilão clandestino",
+    "rarity": "F",
+    "description": "Relíquia rústica de baixo grau de raridade, vinda de um leilão clandestino. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-cajado-simples-da-torre-celestial",
+    "name": "Cajado Simples da Torre Celestial",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda da Torre Celestial. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-cetro-gasto-de-sahelta",
+    "name": "Cetro Gasto de Sahelta",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda de Sahelta. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-diadema-surrado-de-uma-civilizacao-extinta",
+    "name": "Diadema Surrado de uma civilização extinta",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda de uma civilização extinta. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-grimorio-comum-de-um-templo-abandonado",
+    "name": "Grimório Comum de um templo abandonado",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda de um templo abandonado. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-orbe-modesto-de-padokes",
+    "name": "Orbe Modesto de Padokes",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda de Padokes. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-talisma-enferrujado-dos-zoldyck",
+    "name": "Talismã Enferrujado dos Zoldyck",
+    "rarity": "F",
+    "description": "Relíquia enferrujada de baixo grau de raridade, vinda dos Zoldyck. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-frasco-rustico-da-uniao-altene",
+    "name": "Frasco Rústico da União Altene",
+    "rarity": "F",
+    "description": "Relíquia rústica de baixo grau de raridade, vinda da União Altene. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-selo-simples-de-greed-island",
+    "name": "Selo Simples de Greed Island",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda de Greed Island. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-tambor-gasto-da-federacao-ochima",
+    "name": "Tambor Gasto da Federação Ochima",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda da Federação Ochima. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-sino-surrado-de-um-mercado-negro",
+    "name": "Sino Surrado de um mercado negro",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda de um mercado negro. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-pedra-comum-de-kakin",
+    "name": "Pedra Comum de Kakin",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda de Kakin. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-lamina-modesta-de-mimbo",
+    "name": "Lâmina Modesta de Mimbo",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda de Mimbo. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-mascara-enferrujada-da-genei-ryodan",
+    "name": "Máscara Enferrujada da Genei Ryodan",
+    "rarity": "F",
+    "description": "Relíquia enferrujada de baixo grau de raridade, vinda da Genei Ryodan. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-caixa-rustica-da-ilha-da-garancia",
+    "name": "Caixa Rústica da Ilha da Garância",
+    "rarity": "F",
+    "description": "Relíquia rústica de baixo grau de raridade, vinda da Ilha da Garância. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-estatueta-simples-do-cla-kurta",
+    "name": "Estatueta Simples do Clã Kurta",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda do Clã Kurta. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-chave-gasta-de-segerusse",
+    "name": "Chave Gasta de Segerussé",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda de Segerussé. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-bussola-surrada-de-uma-expedicao-arqueologica",
+    "name": "Bússola Surrada de uma expedição arqueológica",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda de uma expedição arqueológica. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-moeda-comum-de-yorknew",
+    "name": "Moeda Comum de Yorknew",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda de Yorknew. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-flauta-modesta-de-eukan-yu",
+    "name": "Flauta Modesta de Eukan'yu",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda de Eukan'yu. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-adaga-enferrujada-de-um-hunter-desconhecido",
+    "name": "Adaga Enferrujada de um Hunter desconhecido",
+    "rarity": "F",
+    "description": "Relíquia enferrujada de baixo grau de raridade, vinda de um Hunter desconhecido. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-luva-rustica-de-uma-ruina-submersa",
+    "name": "Luva Rústica de uma ruína submersa",
+    "rarity": "F",
+    "description": "Relíquia rústica de baixo grau de raridade, vinda de uma ruína submersa. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-capa-simples-da-ilha-baleia",
+    "name": "Capa Simples da Ilha Baleia",
+    "rarity": "F",
+    "description": "Relíquia simples de baixo grau de raridade, vinda da Ilha Baleia. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-anfora-gasta-do-lago-moebius",
+    "name": "Ânfora Gasta do Lago Moebius",
+    "rarity": "F",
+    "description": "Relíquia gasta de baixo grau de raridade, vinda do Lago Moebius. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-pena-surrada-de-um-leilao-clandestino",
+    "name": "Pena Surrada de um leilão clandestino",
+    "rarity": "F",
+    "description": "Relíquia surrada de baixo grau de raridade, vinda de um leilão clandestino. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-garra-comum-da-torre-celestial",
+    "name": "Garra Comum da Torre Celestial",
+    "rarity": "F",
+    "description": "Relíquia comum de baixo grau de raridade, vinda da Torre Celestial. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-presa-modesta-de-sahelta",
+    "name": "Presa Modesta de Sahelta",
+    "rarity": "F",
+    "description": "Relíquia modesta de baixo grau de raridade, vinda de Sahelta. Possui valor histórico limitado, mas é aceita em qualquer negociação básica registrada pela Associação Hunter."
+  },
+  {
+    "id": "reliquia-cristal-usado-de-uma-civilizacao-extinta",
+    "name": "Cristal Usado de uma civilização extinta",
+    "rarity": "E",
+    "description": "Item usado catalogado como raridade E. Vindo de uma civilização extinta, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-anel-desgastado-de-um-templo-abandonado",
+    "name": "Anel Desgastado de um templo abandonado",
+    "rarity": "E",
+    "description": "Item desgastado catalogado como raridade E. Vindo de um templo abandonado, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-amuleto-basico-de-padokes",
+    "name": "Amuleto Básico de Padokes",
+    "rarity": "E",
+    "description": "Item básico catalogado como raridade E. Vindo de Padokes, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-pergaminho-discreto-dos-zoldyck",
+    "name": "Pergaminho Discreto dos Zoldyck",
+    "rarity": "E",
+    "description": "Item discreto catalogado como raridade E. Vindo dos Zoldyck, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-colar-opaco-da-uniao-altene",
+    "name": "Colar Opaco da União Altene",
+    "rarity": "E",
+    "description": "Item opaco catalogado como raridade E. Vindo da União Altene, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-bastao-riscado-de-greed-island",
+    "name": "Bastão Riscado de Greed Island",
+    "rarity": "E",
+    "description": "Item riscado catalogado como raridade E. Vindo de Greed Island, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-elmo-usado-da-federacao-ochima",
+    "name": "Elmo Usado da Federação Ochima",
+    "rarity": "E",
+    "description": "Item usado catalogado como raridade E. Vindo da Federação Ochima, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-escudo-desgastado-de-um-mercado-negro",
+    "name": "Escudo Desgastado de um mercado negro",
+    "rarity": "E",
+    "description": "Item desgastado catalogado como raridade E. Vindo de um mercado negro, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-espelho-basico-de-kakin",
+    "name": "Espelho Básico de Kakin",
+    "rarity": "E",
+    "description": "Item básico catalogado como raridade E. Vindo de Kakin, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-vaso-discreto-de-mimbo",
+    "name": "Vaso Discreto de Mimbo",
+    "rarity": "E",
+    "description": "Item discreto catalogado como raridade E. Vindo de Mimbo, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-fragmento-opaco-da-genei-ryodan",
+    "name": "Fragmento Opaco da Genei Ryodan",
+    "rarity": "E",
+    "description": "Item opaco catalogado como raridade E. Vindo da Genei Ryodan, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-relogio-riscado-da-ilha-da-garancia",
+    "name": "Relógio Riscado da Ilha da Garância",
+    "rarity": "E",
+    "description": "Item riscado catalogado como raridade E. Vindo da Ilha da Garância, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-candelabro-usado-do-cla-kurta",
+    "name": "Candelabro Usado do Clã Kurta",
+    "rarity": "E",
+    "description": "Item usado catalogado como raridade E. Vindo do Clã Kurta, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-broche-desgastado-de-segerusse",
+    "name": "Broche Desgastado de Segerussé",
+    "rarity": "E",
+    "description": "Item desgastado catalogado como raridade E. Vindo de Segerussé, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-cajado-basico-de-uma-expedicao-arqueologica",
+    "name": "Cajado Básico de uma expedição arqueológica",
+    "rarity": "E",
+    "description": "Item básico catalogado como raridade E. Vindo de uma expedição arqueológica, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-cetro-discreto-de-yorknew",
+    "name": "Cetro Discreto de Yorknew",
+    "rarity": "E",
+    "description": "Item discreto catalogado como raridade E. Vindo de Yorknew, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-diadema-opaco-de-eukan-yu",
+    "name": "Diadema Opaco de Eukan'yu",
+    "rarity": "E",
+    "description": "Item opaco catalogado como raridade E. Vindo de Eukan'yu, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-grimorio-riscado-de-um-hunter-desconhecido",
+    "name": "Grimório Riscado de um Hunter desconhecido",
+    "rarity": "E",
+    "description": "Item riscado catalogado como raridade E. Vindo de um Hunter desconhecido, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-orbe-usado-de-uma-ruina-submersa",
+    "name": "Orbe Usado de uma ruína submersa",
+    "rarity": "E",
+    "description": "Item usado catalogado como raridade E. Vindo de uma ruína submersa, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-talisma-desgastado-da-ilha-baleia",
+    "name": "Talismã Desgastado da Ilha Baleia",
+    "rarity": "E",
+    "description": "Item desgastado catalogado como raridade E. Vindo da Ilha Baleia, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-frasco-basico-do-lago-moebius",
+    "name": "Frasco Básico do Lago Moebius",
+    "rarity": "E",
+    "description": "Item básico catalogado como raridade E. Vindo do Lago Moebius, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-selo-discreto-de-um-leilao-clandestino",
+    "name": "Selo Discreto de um leilão clandestino",
+    "rarity": "E",
+    "description": "Item discreto catalogado como raridade E. Vindo de um leilão clandestino, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-tambor-opaco-da-torre-celestial",
+    "name": "Tambor Opaco da Torre Celestial",
+    "rarity": "E",
+    "description": "Item opaco catalogado como raridade E. Vindo da Torre Celestial, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-sino-riscado-de-sahelta",
+    "name": "Sino Riscado de Sahelta",
+    "rarity": "E",
+    "description": "Item riscado catalogado como raridade E. Vindo de Sahelta, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-pedra-usada-de-uma-civilizacao-extinta",
+    "name": "Pedra Usada de uma civilização extinta",
+    "rarity": "E",
+    "description": "Item usado catalogado como raridade E. Vindo de uma civilização extinta, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-lamina-desgastada-de-um-templo-abandonado",
+    "name": "Lâmina Desgastada de um templo abandonado",
+    "rarity": "E",
+    "description": "Item desgastado catalogado como raridade E. Vindo de um templo abandonado, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-mascara-basica-de-padokes",
+    "name": "Máscara Básica de Padokes",
+    "rarity": "E",
+    "description": "Item básico catalogado como raridade E. Vindo de Padokes, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-caixa-discreta-dos-zoldyck",
+    "name": "Caixa Discreta dos Zoldyck",
+    "rarity": "E",
+    "description": "Item discreto catalogado como raridade E. Vindo dos Zoldyck, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-estatueta-opaca-da-uniao-altene",
+    "name": "Estatueta Opaca da União Altene",
+    "rarity": "E",
+    "description": "Item opaco catalogado como raridade E. Vindo da União Altene, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-chave-riscada-de-greed-island",
+    "name": "Chave Riscada de Greed Island",
+    "rarity": "E",
+    "description": "Item riscado catalogado como raridade E. Vindo de Greed Island, desperta pouco interesse entre colecionadores, mas mantém registro oficial no banco de dados."
+  },
+  {
+    "id": "reliquia-bussola-antiga-da-federacao-ochima",
+    "name": "Bússola Antiga da Federação Ochima",
+    "rarity": "D",
+    "description": "Peça antiga de raridade D, vinda da Federação Ochima. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-moeda-curiosa-de-um-mercado-negro",
+    "name": "Moeda Curiosa de um mercado negro",
+    "rarity": "D",
+    "description": "Peça curiosa de raridade D, vinda de um mercado negro. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-flauta-incomum-de-kakin",
+    "name": "Flauta Incomum de Kakin",
+    "rarity": "D",
+    "description": "Peça incomum de raridade D, vinda de Kakin. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-adaga-estranha-de-mimbo",
+    "name": "Adaga Estranha de Mimbo",
+    "rarity": "D",
+    "description": "Peça estranha de raridade D, vinda de Mimbo. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-luva-palida-da-genei-ryodan",
+    "name": "Luva Pálida da Genei Ryodan",
+    "rarity": "D",
+    "description": "Peça pálida de raridade D, vinda da Genei Ryodan. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-capa-remendada-da-ilha-da-garancia",
+    "name": "Capa Remendada da Ilha da Garância",
+    "rarity": "D",
+    "description": "Peça remendada de raridade D, vinda da Ilha da Garância. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-anfora-antiga-do-cla-kurta",
+    "name": "Ânfora Antiga do Clã Kurta",
+    "rarity": "D",
+    "description": "Peça antiga de raridade D, vinda do Clã Kurta. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-pena-curiosa-de-segerusse",
+    "name": "Pena Curiosa de Segerussé",
+    "rarity": "D",
+    "description": "Peça curiosa de raridade D, vinda de Segerussé. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-garra-incomum-de-uma-expedicao-arqueologica",
+    "name": "Garra Incomum de uma expedição arqueológica",
+    "rarity": "D",
+    "description": "Peça incomum de raridade D, vinda de uma expedição arqueológica. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-presa-estranha-de-yorknew",
+    "name": "Presa Estranha de Yorknew",
+    "rarity": "D",
+    "description": "Peça estranha de raridade D, vinda de Yorknew. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-cristal-palido-de-eukan-yu",
+    "name": "Cristal Pálido de Eukan'yu",
+    "rarity": "D",
+    "description": "Peça pálida de raridade D, vinda de Eukan'yu. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-anel-remendado-de-um-hunter-desconhecido",
+    "name": "Anel Remendado de um Hunter desconhecido",
+    "rarity": "D",
+    "description": "Peça remendada de raridade D, vinda de um Hunter desconhecido. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-amuleto-antigo-de-uma-ruina-submersa",
+    "name": "Amuleto Antigo de uma ruína submersa",
+    "rarity": "D",
+    "description": "Peça antiga de raridade D, vinda de uma ruína submersa. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-pergaminho-curioso-da-ilha-baleia",
+    "name": "Pergaminho Curioso da Ilha Baleia",
+    "rarity": "D",
+    "description": "Peça curiosa de raridade D, vinda da Ilha Baleia. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-colar-incomum-do-lago-moebius",
+    "name": "Colar Incomum do Lago Moebius",
+    "rarity": "D",
+    "description": "Peça incomum de raridade D, vinda do Lago Moebius. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-bastao-estranho-de-um-leilao-clandestino",
+    "name": "Bastão Estranho de um leilão clandestino",
+    "rarity": "D",
+    "description": "Peça estranha de raridade D, vinda de um leilão clandestino. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-elmo-palido-da-torre-celestial",
+    "name": "Elmo Pálido da Torre Celestial",
+    "rarity": "D",
+    "description": "Peça pálida de raridade D, vinda da Torre Celestial. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-escudo-remendado-de-sahelta",
+    "name": "Escudo Remendado de Sahelta",
+    "rarity": "D",
+    "description": "Peça remendada de raridade D, vinda de Sahelta. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-espelho-antigo-de-uma-civilizacao-extinta",
+    "name": "Espelho Antigo de uma civilização extinta",
+    "rarity": "D",
+    "description": "Peça antiga de raridade D, vinda de uma civilização extinta. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-vaso-curioso-de-um-templo-abandonado",
+    "name": "Vaso Curioso de um templo abandonado",
+    "rarity": "D",
+    "description": "Peça curiosa de raridade D, vinda de um templo abandonado. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-fragmento-incomum-de-padokes",
+    "name": "Fragmento Incomum de Padokes",
+    "rarity": "D",
+    "description": "Peça incomum de raridade D, vinda de Padokes. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-relogio-estranho-dos-zoldyck",
+    "name": "Relógio Estranho dos Zoldyck",
+    "rarity": "D",
+    "description": "Peça estranha de raridade D, vinda dos Zoldyck. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-candelabro-palido-da-uniao-altene",
+    "name": "Candelabro Pálido da União Altene",
+    "rarity": "D",
+    "description": "Peça pálida de raridade D, vinda da União Altene. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-broche-remendado-de-greed-island",
+    "name": "Broche Remendado de Greed Island",
+    "rarity": "D",
+    "description": "Peça remendada de raridade D, vinda de Greed Island. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-cajado-antigo-da-federacao-ochima",
+    "name": "Cajado Antigo da Federação Ochima",
+    "rarity": "D",
+    "description": "Peça antiga de raridade D, vinda da Federação Ochima. Exige verificação de autenticidade antes de qualquer transação, devido à sua origem pouco documentada."
+  },
+  {
+    "id": "reliquia-cetro-raro-de-um-mercado-negro",
+    "name": "Cetro Raro de um mercado negro",
+    "rarity": "C",
+    "description": "Artefato raro classificado como raridade C. Vindo de um mercado negro, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-diadema-misterioso-de-kakin",
+    "name": "Diadema Misterioso de Kakin",
+    "rarity": "C",
+    "description": "Artefato misterioso classificado como raridade C. Vindo de Kakin, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-grimorio-gravado-de-mimbo",
+    "name": "Grimório Gravado de Mimbo",
+    "rarity": "C",
+    "description": "Artefato gravado classificado como raridade C. Vindo de Mimbo, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-orbe-reluzente-da-genei-ryodan",
+    "name": "Orbe Reluzente da Genei Ryodan",
+    "rarity": "C",
+    "description": "Artefato reluzente classificado como raridade C. Vindo da Genei Ryodan, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-talisma-esquecido-da-ilha-da-garancia",
+    "name": "Talismã Esquecido da Ilha da Garância",
+    "rarity": "C",
+    "description": "Artefato esquecido classificado como raridade C. Vindo da Ilha da Garância, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-frasco-peculiar-do-cla-kurta",
+    "name": "Frasco Peculiar do Clã Kurta",
+    "rarity": "C",
+    "description": "Artefato peculiar classificado como raridade C. Vindo do Clã Kurta, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-selo-raro-de-segerusse",
+    "name": "Selo Raro de Segerussé",
+    "rarity": "C",
+    "description": "Artefato raro classificado como raridade C. Vindo de Segerussé, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-tambor-misterioso-de-uma-expedicao-arqueologica",
+    "name": "Tambor Misterioso de uma expedição arqueológica",
+    "rarity": "C",
+    "description": "Artefato misterioso classificado como raridade C. Vindo de uma expedição arqueológica, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-sino-gravado-de-yorknew",
+    "name": "Sino Gravado de Yorknew",
+    "rarity": "C",
+    "description": "Artefato gravado classificado como raridade C. Vindo de Yorknew, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-pedra-reluzente-de-eukan-yu",
+    "name": "Pedra Reluzente de Eukan'yu",
+    "rarity": "C",
+    "description": "Artefato reluzente classificado como raridade C. Vindo de Eukan'yu, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-lamina-esquecida-de-um-hunter-desconhecido",
+    "name": "Lâmina Esquecida de um Hunter desconhecido",
+    "rarity": "C",
+    "description": "Artefato esquecido classificado como raridade C. Vindo de um Hunter desconhecido, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-mascara-peculiar-de-uma-ruina-submersa",
+    "name": "Máscara Peculiar de uma ruína submersa",
+    "rarity": "C",
+    "description": "Artefato peculiar classificado como raridade C. Vindo de uma ruína submersa, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-caixa-rara-da-ilha-baleia",
+    "name": "Caixa Rara da Ilha Baleia",
+    "rarity": "C",
+    "description": "Artefato raro classificado como raridade C. Vindo da Ilha Baleia, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-estatueta-misteriosa-do-lago-moebius",
+    "name": "Estatueta Misteriosa do Lago Moebius",
+    "rarity": "C",
+    "description": "Artefato misterioso classificado como raridade C. Vindo do Lago Moebius, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-chave-gravada-de-um-leilao-clandestino",
+    "name": "Chave Gravada de um leilão clandestino",
+    "rarity": "C",
+    "description": "Artefato gravado classificado como raridade C. Vindo de um leilão clandestino, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-bussola-reluzente-da-torre-celestial",
+    "name": "Bússola Reluzente da Torre Celestial",
+    "rarity": "C",
+    "description": "Artefato reluzente classificado como raridade C. Vindo da Torre Celestial, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-moeda-esquecida-de-sahelta",
+    "name": "Moeda Esquecida de Sahelta",
+    "rarity": "C",
+    "description": "Artefato esquecido classificado como raridade C. Vindo de Sahelta, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-flauta-peculiar-de-uma-civilizacao-extinta",
+    "name": "Flauta Peculiar de uma civilização extinta",
+    "rarity": "C",
+    "description": "Artefato peculiar classificado como raridade C. Vindo de uma civilização extinta, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-adaga-rara-de-um-templo-abandonado",
+    "name": "Adaga Rara de um templo abandonado",
+    "rarity": "C",
+    "description": "Artefato raro classificado como raridade C. Vindo de um templo abandonado, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-luva-misteriosa-de-padokes",
+    "name": "Luva Misteriosa de Padokes",
+    "rarity": "C",
+    "description": "Artefato misterioso classificado como raridade C. Vindo de Padokes, já foi disputado em leilões menores e desperta interesse moderado entre caçadores de tesouros."
+  },
+  {
+    "id": "reliquia-capa-encantada-dos-zoldyck",
+    "name": "Capa Encantada dos Zoldyck",
+    "rarity": "B",
+    "description": "Relíquia encantada de raridade B, vinda dos Zoldyck. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-anfora-runica-da-uniao-altene",
+    "name": "Ânfora Rúnica da União Altene",
+    "rarity": "B",
+    "description": "Relíquia rúnica de raridade B, vinda da União Altene. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-pena-selada-de-greed-island",
+    "name": "Pena Selada de Greed Island",
+    "rarity": "B",
+    "description": "Relíquia selada de raridade B, vinda de Greed Island. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-garra-radiante-da-federacao-ochima",
+    "name": "Garra Radiante da Federação Ochima",
+    "rarity": "B",
+    "description": "Relíquia radiante de raridade B, vinda da Federação Ochima. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-presa-sombria-de-um-mercado-negro",
+    "name": "Presa Sombria de um mercado negro",
+    "rarity": "B",
+    "description": "Relíquia sombria de raridade B, vinda de um mercado negro. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-cristal-imponente-de-kakin",
+    "name": "Cristal Imponente de Kakin",
+    "rarity": "B",
+    "description": "Relíquia imponente de raridade B, vinda de Kakin. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-anel-encantado-de-mimbo",
+    "name": "Anel Encantado de Mimbo",
+    "rarity": "B",
+    "description": "Relíquia encantada de raridade B, vinda de Mimbo. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-amuleto-runico-da-genei-ryodan",
+    "name": "Amuleto Rúnico da Genei Ryodan",
+    "rarity": "B",
+    "description": "Relíquia rúnica de raridade B, vinda da Genei Ryodan. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-pergaminho-selado-da-ilha-da-garancia",
+    "name": "Pergaminho Selado da Ilha da Garância",
+    "rarity": "B",
+    "description": "Relíquia selada de raridade B, vinda da Ilha da Garância. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-colar-radiante-do-cla-kurta",
+    "name": "Colar Radiante do Clã Kurta",
+    "rarity": "B",
+    "description": "Relíquia radiante de raridade B, vinda do Clã Kurta. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-bastao-sombrio-de-segerusse",
+    "name": "Bastão Sombrio de Segerussé",
+    "rarity": "B",
+    "description": "Relíquia sombria de raridade B, vinda de Segerussé. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-elmo-imponente-de-uma-expedicao-arqueologica",
+    "name": "Elmo Imponente de uma expedição arqueológica",
+    "rarity": "B",
+    "description": "Relíquia imponente de raridade B, vinda de uma expedição arqueológica. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-escudo-encantado-de-yorknew",
+    "name": "Escudo Encantado de Yorknew",
+    "rarity": "B",
+    "description": "Relíquia encantada de raridade B, vinda de Yorknew. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-espelho-runico-de-eukan-yu",
+    "name": "Espelho Rúnico de Eukan'yu",
+    "rarity": "B",
+    "description": "Relíquia rúnica de raridade B, vinda de Eukan'yu. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-vaso-selado-de-um-hunter-desconhecido",
+    "name": "Vaso Selado de um Hunter desconhecido",
+    "rarity": "B",
+    "description": "Relíquia selada de raridade B, vinda de um Hunter desconhecido. Guarda vestígios de propriedades ligadas a Nen, ainda não totalmente compreendidas pelos pesquisadores da Associação."
+  },
+  {
+    "id": "reliquia-fragmento-sagrado-de-uma-ruina-submersa",
+    "name": "Fragmento Sagrado de uma ruína submersa",
+    "rarity": "A",
+    "description": "Artefato sagrado de raridade A, vindo de uma ruína submersa. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-relogio-amaldicoado-da-ilha-baleia",
+    "name": "Relógio Amaldiçoado da Ilha Baleia",
+    "rarity": "A",
+    "description": "Artefato amaldiçoado de raridade A, vindo da Ilha Baleia. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-candelabro-ancestral-do-lago-moebius",
+    "name": "Candelabro Ancestral do Lago Moebius",
+    "rarity": "A",
+    "description": "Artefato ancestral de raridade A, vindo do Lago Moebius. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-broche-celestial-de-um-leilao-clandestino",
+    "name": "Broche Celestial de um leilão clandestino",
+    "rarity": "A",
+    "description": "Artefato celestial de raridade A, vindo de um leilão clandestino. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-cajado-abissal-da-torre-celestial",
+    "name": "Cajado Abissal da Torre Celestial",
+    "rarity": "A",
+    "description": "Artefato abissal de raridade A, vindo da Torre Celestial. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-cetro-profano-de-sahelta",
+    "name": "Cetro Profano de Sahelta",
+    "rarity": "A",
+    "description": "Artefato profano de raridade A, vindo de Sahelta. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-diadema-sagrado-de-uma-civilizacao-extinta",
+    "name": "Diadema Sagrado de uma civilização extinta",
+    "rarity": "A",
+    "description": "Artefato sagrado de raridade A, vindo de uma civilização extinta. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-grimorio-amaldicoado-de-um-templo-abandonado",
+    "name": "Grimório Amaldiçoado de um templo abandonado",
+    "rarity": "A",
+    "description": "Artefato amaldiçoado de raridade A, vindo de um templo abandonado. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-orbe-ancestral-de-padokes",
+    "name": "Orbe Ancestral de Padokes",
+    "rarity": "A",
+    "description": "Artefato ancestral de raridade A, vindo de Padokes. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-talisma-celestial-dos-zoldyck",
+    "name": "Talismã Celestial dos Zoldyck",
+    "rarity": "A",
+    "description": "Artefato celestial de raridade A, vindo dos Zoldyck. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-frasco-abissal-da-uniao-altene",
+    "name": "Frasco Abissal da União Altene",
+    "rarity": "A",
+    "description": "Artefato abissal de raridade A, vindo da União Altene. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-selo-profano-de-greed-island",
+    "name": "Selo Profano de Greed Island",
+    "rarity": "A",
+    "description": "Artefato profano de raridade A, vindo de Greed Island. Catalogado sob vigilância redobrada, é cobiçado por colecionadores de elite e organizações do submundo."
+  },
+  {
+    "id": "reliquia-tambor-lendario-da-federacao-ochima",
+    "name": "Tambor Lendário da Federação Ochima",
+    "rarity": "S",
+    "description": "Relíquia lendária de raridade S, vinda da Federação Ochima. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-sino-divino-de-um-mercado-negro",
+    "name": "Sino Divino de um mercado negro",
+    "rarity": "S",
+    "description": "Relíquia divina de raridade S, vinda de um mercado negro. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-pedra-primordial-de-kakin",
+    "name": "Pedra Primordial de Kakin",
+    "rarity": "S",
+    "description": "Relíquia primordial de raridade S, vinda de Kakin. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-lamina-imortal-de-mimbo",
+    "name": "Lâmina Imortal de Mimbo",
+    "rarity": "S",
+    "description": "Relíquia imortal de raridade S, vinda de Mimbo. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-mascara-absoluta-da-genei-ryodan",
+    "name": "Máscara Absoluta da Genei Ryodan",
+    "rarity": "S",
+    "description": "Relíquia absoluta de raridade S, vinda da Genei Ryodan. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-caixa-transcendente-da-ilha-da-garancia",
+    "name": "Caixa Transcendente da Ilha da Garância",
+    "rarity": "S",
+    "description": "Relíquia transcendente de raridade S, vinda da Ilha da Garância. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-estatueta-lendaria-do-cla-kurta",
+    "name": "Estatueta Lendária do Clã Kurta",
+    "rarity": "S",
+    "description": "Relíquia lendária de raridade S, vinda do Clã Kurta. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  },
+  {
+    "id": "reliquia-chave-divina-de-segerusse",
+    "name": "Chave Divina de Segerussé",
+    "rarity": "S",
+    "description": "Relíquia divina de raridade S, vinda de Segerussé. Seu manuseio é restrito a Hunters de classe superior — poucos exemplares como este constam no catálogo global."
+  }
+]

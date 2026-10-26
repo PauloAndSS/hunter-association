@@ -1,0 +1,37 @@
+[
+  {
+    "id": "guarda-costas",
+    "name": "Guarda-Costas",
+    "pay": "10.000.000 a 500.000.000 Jenny",
+    "payShort": "10M–500M Jenny",
+    "description": "Proteção VIP contra investidas de assassinos ou facções rivais."
+  },
+  {
+    "id": "cacador-de-recompensas",
+    "name": "Caçador de Recompensas",
+    "pay": "Variável por cabeça (até Classe S)",
+    "payShort": "Variável — até Classe S",
+    "description": "Captura ou eliminação de alvos listados no quadro de procurados."
+  },
+  {
+    "id": "cacador-de-tesouros",
+    "name": "Caçador de Tesouros",
+    "pay": "Partilha de achados (40% – 70%)",
+    "payShort": "40%–70% dos achados",
+    "description": "Escavação de ruínas antigas e exploração de áreas não mapeadas."
+  },
+  {
+    "id": "cozinheiro-gastronomia",
+    "name": "Cozinheiro / Gastronomia",
+    "pay": "5.000.000 a 80.000.000 Jenny",
+    "payShort": "5M–80M Jenny",
+    "description": "Obtenção de ingredientes de alto risco e preparo de banquetes de elite."
+  },
+  {
+    "id": "servicos-gerais-medico",
+    "name": "Serviços Gerais / Médico",
+    "pay": "Acordo por operação tática",
+    "payShort": "Acordo por operação",
+    "description": "Limpeza de vestígios, logística disfarçada e suporte cirúrgico de campo."
+  }
+]

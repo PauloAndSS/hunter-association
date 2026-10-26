@@ -1,0 +1,26 @@
+.layout {
+  display: flex;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-mono);
+}
+
+.main {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width: 700px) {
+  .layout {
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .main {
+    flex: 1;
+    min-height: 52vh;
+  }
+}

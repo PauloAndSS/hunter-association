@@ -1,0 +1,156 @@
+.stage {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 30% 20%, rgba(53, 224, 161, 0.05), transparent 45%),
+    var(--bg);
+}
+
+.box {
+  position: absolute;
+  left: 32px;
+  right: 32px;
+  bottom: 32px;
+  z-index: 1;
+  min-height: 160px;
+  background: rgba(10, 18, 22, 0.94);
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--accent);
+  padding: 20px 24px;
+  cursor: pointer;
+  font-family: var(--font-mono);
+}
+
+@media (max-width: 700px) {
+  .box {
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+  }
+}
+
+.reference {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  z-index: 1;
+  width: 140px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 6px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+}
+
+.reference::before,
+.reference::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: 2px solid var(--accent);
+}
+
+.reference::before {
+  top: -1px;
+  left: -1px;
+  border-right: none;
+  border-bottom: none;
+}
+
+.reference::after {
+  bottom: -1px;
+  right: -1px;
+  border-left: none;
+  border-top: none;
+}
+
+.referenceImage {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  background: var(--bg);
+}
+
+.referenceBadge {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: var(--bg);
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  padding: 8px;
+}
+
+@media (max-width: 700px) {
+  .reference {
+    top: 12px;
+    left: 12px;
+    width: 84px;
+    padding: 4px;
+  }
+
+  .referenceBadge {
+    font-size: 0.6rem;
+  }
+}
+
+.name {
+  color: var(--accent-strong);
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+
+.name::before {
+  content: "> ";
+  color: var(--accent);
+}
+
+.text {
+  color: var(--ink);
+  white-space: pre-wrap;
+  line-height: 1.55;
+  min-height: 4.5em;
+  font-size: 0.95rem;
+}
+
+.hint {
+  position: absolute;
+  bottom: 10px;
+  right: 16px;
+  color: var(--accent);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  animation: bounce 1s infinite;
+}
+
+.cursor {
+  position: absolute;
+  bottom: 10px;
+  right: 16px;
+  color: var(--accent);
+  font-size: 0.8rem;
+  animation: blink 1s steps(1) infinite;
+}
+
+.placeholder {
+  color: var(--ink-faint);
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(4px); }
+}
+
+@keyframes blink {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}

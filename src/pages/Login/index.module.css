@@ -1,0 +1,128 @@
+.screen {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(53, 224, 161, 0.07), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(57, 183, 255, 0.06), transparent 45%);
+  padding: 24px;
+  color: var(--ink);
+  font-family: var(--font-mono);
+}
+
+.card {
+  width: 100%;
+  max-width: 420px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--accent);
+  box-shadow: 0 0 0 1px rgba(53, 224, 161, 0.08), 0 20px 60px rgba(0, 0, 0, 0.6);
+  padding: 24px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 1.2rem;
+  color: var(--accent-strong);
+}
+
+.badge {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  color: var(--danger);
+  border: 1px solid var(--danger);
+  background: var(--danger-dim);
+  padding: 2px 8px;
+  border-radius: 2px;
+}
+
+.boot {
+  white-space: pre-wrap;
+  color: var(--accent);
+  font-size: 0.78rem;
+  line-height: 1.5;
+  min-height: 2.6em;
+  margin-bottom: 20px;
+  border-left: 2px solid var(--line);
+  padding-left: 10px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-dim);
+  text-transform: uppercase;
+}
+
+.field input {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  padding: 10px 12px;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+.field input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+.error {
+  color: var(--danger);
+  font-size: 0.78rem;
+  border: 1px solid var(--danger);
+  background: var(--danger-dim);
+  padding: 8px 10px;
+}
+
+.submit {
+  margin-top: 4px;
+  background: var(--accent);
+  color: #04120d;
+  border: none;
+  padding: 12px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.1s ease;
+}
+
+.submit:hover {
+  background: var(--accent-strong);
+}
+
+.submit:active {
+  transform: translateY(1px);
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 0.65rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  text-align: center;
+}

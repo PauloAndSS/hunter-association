@@ -1,0 +1,151 @@
+.stage {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  background: radial-gradient(circle at 50% 50%, rgba(53, 224, 161, 0.05), transparent 60%), var(--bg);
+}
+
+.scrollArea {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px;
+  min-height: 100%;
+}
+
+.mapWrap {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  border: 1px solid var(--line);
+  background: #c9c9c9;
+  box-shadow: 0 0 0 1px rgba(53, 224, 161, 0.08), 0 20px 60px rgba(0, 0, 0, 0.6);
+  line-height: 0;
+}
+
+.mapImage {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.pin,
+.pinActive {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  z-index: 1;
+}
+
+.pinDot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent-2);
+  border: 2px solid #04120d;
+  box-shadow: 0 0 0 2px var(--accent-2), 0 0 10px rgba(57, 183, 255, 0.8);
+}
+
+.pinActive .pinDot {
+  background: var(--danger);
+  box-shadow: 0 0 0 2px var(--danger), 0 0 14px rgba(255, 79, 94, 0.9);
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+.pinLabel {
+  font-size: 0.6rem;
+  letter-spacing: 0.02em;
+  color: #04120d;
+  background: rgba(217, 245, 232, 0.92);
+  padding: 1px 5px;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(-2px);
+  transition: opacity 0.12s ease, transform 0.12s ease;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.pin:hover .pinLabel,
+.pinActive .pinLabel {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.panel {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.card {
+  background: rgba(10, 18, 22, 0.95);
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--accent);
+  padding: 18px 22px;
+  font-family: var(--font-mono);
+}
+
+.cardHeader {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.cardName {
+  color: var(--accent-strong);
+  font-weight: bold;
+  letter-spacing: 0.03em;
+}
+
+.cardKind {
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: var(--accent-2);
+  border: 1px solid var(--accent-2);
+  padding: 1px 6px;
+}
+
+.cardText {
+  color: var(--ink);
+  line-height: 1.55;
+  font-size: 0.9rem;
+  min-height: 3.2em;
+}
+
+.hint {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+  padding: 4px 2px;
+}
+
+@media (max-width: 700px) {
+  .scrollArea {
+    padding: 12px;
+    gap: 12px;
+  }
+
+  .pinDot {
+    width: 9px;
+    height: 9px;
+  }
+
+  .pinLabel {
+    font-size: 0.56rem;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 2px var(--danger), 0 0 8px rgba(255, 79, 94, 0.7); }
+  50% { box-shadow: 0 0 0 4px var(--danger), 0 0 18px rgba(255, 79, 94, 1); }
+}
